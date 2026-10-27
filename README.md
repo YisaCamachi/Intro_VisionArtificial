@@ -1,5 +1,4 @@
 # Intro_VisionArtificial
-# Intro_VisionArtificial
 
 Práctica de laboratorio de **Visión Artificial** del curso Matemática & Simulación Científica (Deep Learning Workshop).
 
